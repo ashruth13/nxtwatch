@@ -1,0 +1,35 @@
+.head-img {
+  height: 30px;
+}
+.noLink {
+  text-decoration: none;
+}
+.img-game {
+  height: 280px;
+  width: 200px;
+}
+.Head {
+  display: flex;
+  width: 15vw;
+  align-items: center;
+  justify-content: space-between;
+}
+.logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100px;
+}
+.login-imgs {
+  margin: 0px;
+  height: 30px;
+}
+.noBtn {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.koko {
+  display: flex;
+}

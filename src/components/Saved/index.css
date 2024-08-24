@@ -1,0 +1,45 @@
+.head-img {
+  height: 30px;
+}
+.Head {
+  display: flex;
+  width: 15vw;
+  align-items: center;
+  justify-content: space-between;
+}
+.img-thumb {
+  width: 250px;
+  height: 150px;
+}
+.saved-main {
+  margin: 20px;
+  display: flex;
+}
+.h11 {
+  margin: 0px;
+  margin-left: 5px;
+}
+.saved-f {
+  display: flex;
+  font-family: 'Roboto';
+  align-items: center;
+}
+.logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100px;
+}
+.login-imgs {
+  margin: 0px;
+  height: 30px;
+}
+.noBtn {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.koko {
+  display: flex;
+}

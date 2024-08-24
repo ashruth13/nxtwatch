@@ -1,0 +1,40 @@
+.mar-in {
+  margin-bottom: 20px;
+}
+.login-input {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #909090;
+  padding: 5px;
+  width: 19vw;
+  margin-top: 2px;
+}
+.login-p {
+  color: red;
+  font-size: 10px;
+  margin: 0px;
+}
+.login-img {
+  height: 40px;
+  margin-bottom: 25px;
+}
+.login-button {
+  width: 19vw;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 8px;
+  background-color: #3b82f6;
+}
+.login-img-div {
+  text-align: center;
+}
+
+.show-login {
+  display: flex;
+  align-items: center;
+  margin-top: 3px;
+  font-size: 12px;
+}
